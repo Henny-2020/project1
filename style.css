@@ -1,12 +1,12 @@
 h1 {
   font-size: 200px;
-  color: darkblue;
+  color: white;
  
   
 }
 
 h2 {
-  color: darkblue;
+  color: white;
   text-align: left;
  
    
@@ -23,15 +23,16 @@ body {
 P {
   font-size: 44px; 
   text-align: center;
-    color: black
+    color: white
 
 }
 .written-by{
-  color: darkblue;
+  color: white;
     text-align: right;
 }
   .jac{
     text-align: right;
+    color: darkblue
   }
 .link{
   text-align: right;
