@@ -16,20 +16,23 @@ body {
   
   font-family: "Helvetica Neue", sans-serif;
   font-size: 24px;    
+  padding: 50px;
   
 }
 
 P {
   font-size: 44px;
-  section{padding: 60px;}
+
   
 
 }
 .written-by{
-  color: blue
+  color: blue;
+    text-align: right;
 }
 
 img {
-  margin: 100px
+  margin-left: 700px;
+  
 }
 
