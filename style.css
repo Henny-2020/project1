@@ -21,9 +21,8 @@ body {
 
 P {
   font-size: 44px;
-  font-family: "times";
-
-  padding: 60px;
+  section{padding: 60px;}
+  
 
 }
 .written-by{
