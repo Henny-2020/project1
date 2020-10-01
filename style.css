@@ -8,8 +8,7 @@ h1 {
 h2 {
   color: blue;
   text-align: right;
- 
-  
+   
 
 }
 body {
@@ -21,15 +20,16 @@ body {
 }
 
 P {
-  font-size: 44px;
-
-  
+  font-size: 44px;  
 
 }
 .written-by{
   color: blue;
     text-align: right;
 }
+  .jac{
+    text-align: right;
+  }
 
 img {
   margin-left: 700px;
