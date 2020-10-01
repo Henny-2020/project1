@@ -7,6 +7,7 @@ h1 {
 
 h2 {
   color: blue;
+  text-align: right;
  
   
 
@@ -20,10 +21,16 @@ body {
 
 P {
   font-size: 44px;
-  text-align: right;
+  font-family: "times";
+
+  padding: 60px;
 
 }
 .written-by{
   color: blue
+}
+
+img {
+  margin: 100px
 }
 
