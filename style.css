@@ -1,13 +1,14 @@
 h1 {
-  font-size: 150px;
-  color: blue;
+  font-size: 200px;
+  color: darkblue;
  
   
 }
 
 h2 {
-  color: blue;
-  text-align: right;
+  color: darkblue;
+  text-align: left;
+ 
    
 
 }
@@ -15,17 +16,18 @@ body {
   
   font-family: "Helvetica Neue", sans-serif;
   font-size: 24px;    
-  padding: 50px;
+  
   
 }
 
 P {
   font-size: 44px; 
-  color: purple;
+  text-align: center;
+    color: black
 
 }
 .written-by{
-  color: blue;
+  color: darkblue;
     text-align: right;
 }
   .jac{
@@ -33,7 +35,7 @@ P {
   }
 .link{
   text-align: right;
-  color: blue;
+  color: darkblue;
 
 }
 
