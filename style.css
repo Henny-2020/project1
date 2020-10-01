@@ -20,7 +20,8 @@ body {
 }
 
 P {
-  font-size: 44px;  
+  font-size: 44px; 
+  color: purple;
 
 }
 .written-by{
@@ -30,9 +31,14 @@ P {
   .jac{
     text-align: right;
   }
+.link{
+  text-align: right;
+  color: blue;
+
+}
 
 img {
-  margin-left: 700px;
+  img-align: right;
   
 }
 
