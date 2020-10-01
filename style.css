@@ -1,12 +1,14 @@
 h1 {
   font-size: 150px;
-  color: blue
+  color: blue;
  
   
 }
 
 h2 {
-  color: blue
+  color: blue;
+ 
+  
 
 }
 body {
@@ -18,5 +20,10 @@ body {
 
 P {
   font-size: 44px;
+  text-align: right;
+
+}
+.written-by{
+  color: blue
 }
 
